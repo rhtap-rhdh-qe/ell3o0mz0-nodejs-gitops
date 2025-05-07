@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ell3o0mz0-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ell3o0mz0-nodejs
